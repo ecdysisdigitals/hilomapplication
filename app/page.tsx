@@ -22,11 +22,11 @@ export default function Home() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 text-center md:text-left">
-              HILOM: Gamot sa Bicol
+              HILOM: Mga Tradisyunal na Gamot
             </h1>
             <p className="text-lg text-green-100 mb-8 text-center md:text-left">
               I-download ang HILOM app ngayon at tuklasin ang mga tradisyunal na lunas at halamang gamot mula sa rehiyon
-              ng Bicol. Ang kaalaman ng ating mga ninuno, nasa iyong kamay na.
+              ng Bicol sa Camarines Norte. Ang kaalaman ng ating mga ninuno, nasa iyong kamay na.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <Button size="lg" className="bg-white text-green-800 hover:bg-green-100">
