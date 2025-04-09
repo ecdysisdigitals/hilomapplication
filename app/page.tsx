@@ -24,7 +24,7 @@ export default function Home() {
             <div className="mb-8 flex justify-center md:justify-start animate-float">
               <div className="bg-white rounded-full p-4 w-24 h-24 flex items-center justify-center shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=80&width=80"
+                  src="/hilom-logo.png?height=80&width=80"
                   alt="HILOM Logo"
                   width={80}
                   height={80}
@@ -70,7 +70,7 @@ export default function Home() {
                 <div className="text-center">
                   <div className="w-24 h-24 bg-white/20 rounded-full mx-auto flex items-center justify-center mb-4 animate-pulse">
                     <Image
-                      src="/placeholder.svg?height=60&width=60"
+                      src="/hilom-logo.png?height=60&width=60"
                       alt="HILOM Icon"
                       width={60}
                       height={60}
