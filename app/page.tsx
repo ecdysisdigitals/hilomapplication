@@ -7,7 +7,7 @@ import Link from "next/link"
 
 export default function Home() {
   // MediaFire APK download link
-  const apkDownloadLink = "https://www.mediafire.com/file/u50f8quph8xxk0l/Hilom.apk/file"
+  const apkDownloadLink = "https://www.mediafire.com/file/dk9bt1wjysl2aec/Hilomversion3.apk/file"
 
   return (
     <div className="min-h-screen w-full bg-gradient-to-b from-green-800 to-green-900 flex items-center justify-center overflow-hidden">
